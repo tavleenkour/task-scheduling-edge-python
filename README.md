@@ -2,6 +2,6 @@
 Project repository for Carleton University course SYSC 5407W.
 
 Contributers: 
-Harshil Maniar
-Tavleen Kour
-Vedant
+1. Harshil Maniar
+2. Tavleen Kour
+3. Vedant
